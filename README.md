@@ -2,13 +2,10 @@
    <h1>Hi there, I'm Lawn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
-<a href='https://https://www.linkedin.com/in/%EC%A4%80%EC%98%81-%EC%9D%B4-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='25px'/></a>
-   
-<a href='https://velog.io/@lawn'><img align='left' alt="Velog" src="https://user-images.githubusercontent.com/74142881/167264590-d130a8ba-ae42-4b95-8a82-5311d352c619.png" height='25px'/></a>
-   
-<a href='name.lawn@gmail.com'><img align='left' alt="Gmail" src="https://user-images.githubusercontent.com/74142881/167264587-5af2c3d9-00ee-4b7b-8b9a-e76784be411b.png" height='25px'/></a>
-   
-<a href='hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='25px'/></a>
+<a href='https://https://www.linkedin.com/in/%EC%A4%80%EC%98%81-%EC%9D%B4-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='30px'/></a>   
+<a href='https://velog.io/@lawn'><img align='left' alt="Velog" src="https://user-images.githubusercontent.com/74142881/167264590-d130a8ba-ae42-4b95-8a82-5311d352c619.png" height='30px'/></a>   
+<a href='name.lawn@gmail.com'><img align='left' alt="Gmail" src="https://user-images.githubusercontent.com/74142881/167264587-5af2c3d9-00ee-4b7b-8b9a-e76784be411b.png" height='30px'/></a>  
+<a href='hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='30px'/></a>
    
 
 <!-- ![Logo](./logo/instagram.png) -->
