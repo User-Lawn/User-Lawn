@@ -1,8 +1,8 @@
 <div align="center">
    <h1>Hi there, I'm Lawn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   
-![Logo](./logo/instagram.png)
+<a href='https://www.linkedin.com/feed/'><img align='left' alt="linkedin" src=./logo/linkdin height='18px'/></a>
+<!-- ![Logo](./logo/instagram.png) -->
 
 <!--
 **User-Lawn/User-Lawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
