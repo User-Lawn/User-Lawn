@@ -8,10 +8,17 @@
    
 <a href='https://www.instagram.com/hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='30px'/></a>
    
-
+<!-- - 🔭 안녕하세요 이로운 사람이 되고싶은 로운 입니다.
+- 🌱 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
    
-<div align="center">   
-### 🔨 Languages and Tools:
+ 
+<!-- ### align:"center"🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -21,7 +28,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="left" alt="figma" height='42px'/> </a>
 
-
+ -->
 
 <!-- ![Logo](./logo/instagram.png) -->
 
