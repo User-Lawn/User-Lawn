@@ -1,7 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm Lawn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-![Lawn](https://user-images.githubusercontent.com/74142881/167263217-2f9f8c8a-9970-4b61-a3f4-c630ee2951e5.gif)
 <!-- ![Logo](./logo/instagram.png) -->
 
 <!--
