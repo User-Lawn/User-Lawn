@@ -2,7 +2,7 @@
    <h1>Hi there, I'm Lawn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
-<a href='https://https://www.linkedin.com/in/%EC%A4%80%EC%98%81-%EC%9D%B4-720a04228'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='30px'/></a>  
+<a href='https://www.linkedin.com/in/-이/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='30px'/></a>  
    
 <a href='https://velog.io/@lawn'><img align='left' alt="Velog" src="https://user-images.githubusercontent.com/74142881/167264590-d130a8ba-ae42-4b95-8a82-5311d352c619.png" height='30px'/></a>   
    
