@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" height="250px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" height="230px"/>
   
 ### 🧐 More About Me:
 
@@ -18,7 +18,7 @@
 - 🤝 &nbsp; 유니세프 기획단장, 국제 청소년 예술 축제 기획 등 기획과 다수의 사람과 협업해본 경험이 있습니다.
 - 🌱 &nbsp; 모바일 iOS 개발자가 되기위해 SwiftUI, UIKit등을 공부하는 중입니다.
 - 🎨 &nbsp; 최근 사용자와의 Interactive 한 Design을 위한 Lottie를 공부하는 중입니다.
-- 💬 &nbsp; 저의 연락 이메일 주소는 [Email](name.lawn@gmail.com)입니다.
+- 💬 &nbsp; 저의 연락 이메일 주소는 [Email](name.lawn@gmail.com) 입니다.
 - 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/준영-이-720a04228/)
 - 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Velog](https://velog.io/@lawn)
 <br>
