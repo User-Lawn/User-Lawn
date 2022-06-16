@@ -7,7 +7,9 @@
 <a href='https://www.instagram.com/hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='18px'/></a>
 
 
-안녕하세요 iOS 모바일 개발 꿈나무 🌱 Lawn입니다. 📱 iOS 모바일 환경에서 사용자와의 Interactive 한 🎨 Design에 대해 관심이 많습니다. 
+안녕하세요 iOS 모바일 개발 꿈나무 🌱 Lawn입니다. 
+<br/>
+📱 iOS 모바일 환경에서 사용자와의 Interactive 한 🎨 Design에 대해 관심이 많습니다. 
 <br/>
 산업공학을 전공했으며, 🤖 인간공학관련한 공부를 했습니다. 
 <br/>
