@@ -1,50 +1,35 @@
-<div align="center">
-   <h1>Hi there, I'm Lawn </h1>
+## Hi 👋, I'm Lawn🌱
+<a href='https://www.linkedin.com/in/준영-이-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='18px'/></a>  
    
+<a href='https://velog.io/@lawn'><img align='left' alt="Velog" src="https://user-images.githubusercontent.com/74142881/167264590-d130a8ba-ae42-4b95-8a82-5311d352c619.png" height='18px'/></a> 
    
-<a href='https://www.linkedin.com/in/준영-이-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='30px'/></a>  
-   
-<a href='https://velog.io/@lawn'><img align='left' alt="Velog" src="https://user-images.githubusercontent.com/74142881/167264590-d130a8ba-ae42-4b95-8a82-5311d352c619.png" height='30px'/></a>   
-   
-<a href='https://www.instagram.com/hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='30px'/></a>
-   
-<!-- - 🔭 안녕하세요 이로운 사람이 되고싶은 로운 입니다.
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-   
- 
-<!-- ### align:"center"🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="left" alt="figma" height='42px'/> </a>
+<a href='https://www.instagram.com/hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='18px'/></a>
 
- -->
 
-<!-- ![Logo](./logo/instagram.png) -->
+안녕하세요 iOS 모바일 개발 꿈나무 🌱 Lawn입니다. 📱 iOS 모바일 환경에서 사용자와의 Interactive 한 🎨 Design에 대해 관심이 많습니다. 산업공학을 전공했으며, 🤖 인간공학관련한 공부를 했습니다. 현재 포항에 위치한 애플 아카데미 1기 주니어 러너로서 🛠️ 개발, 📚 기획, 🎨 디자인 등을 공부하는 중입니다.
+<br/>
+<br/>
 
-<!--
-**User-Lawn/User-Lawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" width="360px"/>
   
+### 🧐 More About Me:
+
+- 🍎 &nbsp; Apple Developer Academy @ POSTECH 에서 개발, 기획, 디자인 등을 공부중입니다. 
+- 🤝 &nbsp; 유니세프 기획단장, 국제 청소년 예술 축제 기획 등 기획과 다수의 사람과 협업해본 경험이 있습니다.
+- 🌱 &nbsp; 모바일 iOS 개발자가 되기위해 SwiftUI, UIKit등을 공부하는 중입니다.
+- 🎨 &nbsp; 최근 사용자와의 Interactive 한 Design을 위한 Lottie를 공부하는 중입니다.
+- 💬 &nbsp; 저의 연락 이메일 주소는 [Email](name.lawn@gmail.com)입니다.
+- 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/준영-이-720a04228/))
+- 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Velog](https://velog.io/@lawn)
+<br>
+
+### 🔨 Languages and Tools:
+
+<br>
+
+### 📊 Github Stats
+<a href='https://github.com/User-Lawn/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/User-Lawn/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/User-Lawn/github-stats-transparent/output/generated/languages.svg)
+
