@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lawn 🌱<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174155315-89b19a09-8117-428f-b4f3-04c7176d417c.gif" height="130px"/>
+## Hi 👋, I'm Lawn 🌱
 
 
 <a href='https://www.linkedin.com/in/준영-이-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='18px'/></a>  
@@ -6,7 +6,7 @@
 <a href='https://velog.io/@lawn'><img align='left' alt="Velog" src="https://user-images.githubusercontent.com/74142881/167264590-d130a8ba-ae42-4b95-8a82-5311d352c619.png" height='18px'/></a> 
    
 <a href='https://www.instagram.com/hi.lawn'><img align='left' alt="Instagram" src="https://user-images.githubusercontent.com/74142881/167264588-11e494ed-e6fe-4500-bd88-814bd85ef805.png" height='18px'/></a>
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174155315-89b19a09-8117-428f-b4f3-04c7176d417c.gif" height="130px"/>
 
 안녕하세요 iOS 모바일 개발 꿈나무 🌱 Lawn입니다. 
 <br/>
