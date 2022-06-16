@@ -12,7 +12,6 @@
 <br/>
 > 📱 iOS 모바일 환경에서 사용자와의 Interactive 한 🎨 Design과 accessibility에대해 관심이 많습니다.<br/>산업공학을 전공했으며, 학부생 시절 🤖 인간공학관련 장애학우의 시설접근에 관한 연구를 했습니다.<br/>현재 포항에 위치한 애플 아카데미 1기 주니어 러너로서 🛠️ 개발, 📚 기획, 🎨 디자인 등을 공부하는 중입니다.
 <br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174148354-c2362eab-b480-4c03-88f1-bb92f01ed2a0.gif" height="240px"/>
   
