@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" height="280px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" height="250px"/>
   
 ### 🧐 More About Me:
 
