@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lawn <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174146106-80f4cd1d-ea1f-44a4-9e3c-4c19ae679bce.gif" height="30px"/>
+## Hi 👋, I'm Lawn 🌱!
 
 <a href='https://www.linkedin.com/in/준영-이-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='18px'/></a>  
    
@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174146044-ca5f42ea-921c-40fb-a422-64af4689581b.gif" height="230px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174146044-ca5f42ea-921c-40fb-a422-64af4689581b.gif" height="240px"/>
   
 ### 🧐 More About Me:
 
