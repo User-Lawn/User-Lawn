@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lawn 🌱!
+## Hi 👋, I'm Lawn 🌱
 
 <a href='https://www.linkedin.com/in/준영-이-720a04228/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='18px'/></a>  
    
