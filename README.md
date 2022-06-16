@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174138147-9c1d3d41-6d4a-4241-a11b-68128c3ba0dd.gif" width="200px"/>
   
 ### 🧐 More About Me:
 
@@ -23,13 +23,4 @@
 - 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Velog](https://velog.io/@lawn)
 <br>
 
-### 🔨 Languages and Tools:
-
-<br>
-
-### 📊 Github Stats
-<a href='https://github.com/User-Lawn/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/User-Lawn/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/User-Lawn/github-stats-transparent/output/generated/languages.svg)
 
