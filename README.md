@@ -19,7 +19,7 @@
 ### 🧐 More About Me:
 
 - 🍎 &nbsp; Apple Developer Academy @ POSTECH 에서 개발, 기획, 디자인 등을 공부중입니다. 
-- 🤝 &nbsp; 유니세프 기획단장, 국제 청소년 예술 축제 기획 등 기획과 다수의 사람과 협업해본 경험이 있습니다.
+- 🤝 &nbsp; 유니세프 대학생 봉사단 기획단장, 국제 청소년 예술 축제 기획 등 기획과 다수의 사람과 협업해본 경험이 있습니다.
 - 🌱 &nbsp; 모바일 iOS 개발자가 되기위해 SwiftUI, UIKit등을 공부하는 중입니다.
 - 🎨 &nbsp; 최근 사용자와의 Interactive 한 Design을 위한 Lottie를 공부하는 중입니다.
 - 💬 &nbsp; 저의 이메일 주소는 [Email](name.lawn@gmail.com) 입니다.
