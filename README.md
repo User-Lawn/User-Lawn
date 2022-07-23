@@ -23,7 +23,7 @@
 - 🌱 &nbsp; 모바일 iOS 개발자가 되기위해 SwiftUI, UIKit등을 공부하는 중입니다.
 - 🎨 &nbsp; 최근 사용자와의 Interactive 한 Design을 위한 Lottie를 공부하는 중입니다.
 - 💬 &nbsp; 저의 이메일 주소는 [Email](name.lawn@gmail.com) 입니다.
-- 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/준영-이-720a04228/)
+- 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/junyoung-lee-lawn/)
 - 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Velog](https://velog.io/@lawn)
 <br>
 
