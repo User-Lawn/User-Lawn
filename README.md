@@ -25,7 +25,7 @@
 - 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 멘토들과 함께 번역작업을 하는 중입니다.
 - 💬 &nbsp; 저의 이메일 주소는 [Email](name.lawn@gmail.com) 입니다.
 - 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/junyoung-lee-lawn/)
-- 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Velog](https://velog.io/@lawn)
+- 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Brunch](https://brunch.co.kr/@3756ea803def4ac)
 <br>
 
 
