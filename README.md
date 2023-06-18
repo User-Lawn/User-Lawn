@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lawn🌱 and I'm Cat Person
+## Hi 👋, I'm Lawn🌱
 
 
 <a href='https://www.linkedin.com/in/junyoung-lee-lawn/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='25px'/></a>  
