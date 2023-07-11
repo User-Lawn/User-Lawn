@@ -16,13 +16,6 @@ PM(Product Manager)이자 사업가 🌱Lawn 입니다.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174148354-c2362eab-b480-4c03-88f1-bb92f01ed2a0.gif" height="150px"/>
   
 ### 🧐 More About Me:
-
-- 🤝 &nbsp; 유니세프 대학생 봉사단 기획단장,국제 청소년 예술축제 기획 등 기획과 다수의 사람과 협업한 경험이 있습니다.
-- 🌱 &nbsp; 성장하는 프로젝트를 위한 그로스와 데이터 기반의 의사결정을 지향합니다.
-- 🧑🏻‍💻 &nbsp; 협엽의 능률 상승과 자동화를 위한 Slack, Jira, Notion, Miro, Figjam을 적극 사용하는 중 입니다.
-- ⭐️ &nbsp; 팀에서 필요할 때 디자인 또는 개발을 함께 할 수 있는 PM(Product Manager)를 목표로 합니다.
-- 🎨 &nbsp; Figma, Sketch, Illustrator, After Effect, Premire Pro 등 다양한 디자인 툴을 사용할 수 있습니다.
-- 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 멘토들과 함께 번역하고 있습니다.
 - 💬 &nbsp; 저의 이메일 주소는 [Email](name.lawn@gmail.com) 입니다.
 - 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/junyoung-lee-lawn/)
 - 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Brunch](https://brunch.co.kr/@3756ea803def4ac)
