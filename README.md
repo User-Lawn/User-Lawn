@@ -15,5 +15,8 @@ PM(Product Manager)이자 사업가 🌱Lawn 입니다.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74142881/174148354-c2362eab-b480-4c03-88f1-bb92f01ed2a0.gif" height="150px"/>
   
 
-
-
+### 🧐 More About Me:
+- 💬 &nbsp; 저의 이메일 주소는 [Email](name.lawn@gmail.com) 입니다.
+- 📫 &nbsp; 링크드인을 구경하러 와주세요 [LinkedIn](https://www.linkedin.com/in/junyoung-lee-lawn/)
+- 📚 &nbsp; WWDC22에 수정된 Human Interface Guideline을 공부하며 블로그를 작성 중입니다. [Brunch](https://brunch.co.kr/@3756ea803def4ac)
+<br>
